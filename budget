@@ -1,0 +1,19 @@
+Home(index)
+--Budget
+	--Update Budget
+	--Expense List
+	--Home
+--Update Budget
+	--Budget
+	--Home
+	--Cancel
+--Expense List
+	--New Expense 
+	--Budget 
+	--Home 
+	--Import Expense List [shell, future functionality]
+--Add Expense
+	--Budget 
+	--Expense list
+	--Home 
+	--Cancel
